@@ -33,15 +33,15 @@ and the order are in [PLAN.md](https://github.com/go-scikit/roadmap/blob/main/PL
 
 The references the work starts from (bibliography first):
 
-- [Kovacic, J. Symbolic Comput. 2(1) 1986](https://doi.org/10.1016/S0747-7171(86)80010-4)
+- Kovacic, J. Symbolic Comput. 2(1) 1986, doi:10.1016/S0747-7171(86)80010-4
 - [Singer, Amer. J. Math. 103(4) 1981](https://doi.org/10.2307/2374045)
 - [Olver, *Applications of Lie Groups to Differential Equations*, 2nd ed., GTM 107](https://doi.org/10.1007/978-1-4612-4350-2)
 - [Della Dora, Dicrescenzo and Duval, EUROCAL '85, LNCS 204](https://doi.org/10.1007/3-540-15984-3_279)
-- [Trager, Algebraic factoring and rational function integration, SYMSAC '76](https://doi.org/10.1145/800205.806338)
+- Trager, Algebraic factoring and rational function integration, SYMSAC '76, doi:10.1145/800205.806338
 - [Chen and Moreno Maza, triangular decomposition, J. Symbolic Comput. 47(6) 2012](https://doi.org/10.1016/j.jsc.2011.12.023)
 - [Collins, quantifier elimination by CAD, LNCS 33, 1975](https://doi.org/10.1007/3-540-07407-4_17)
-- [Boulier, Lazard, Ollivier and Petitot, radicals of differential ideals, ISSAC 1995](https://doi.org/10.1145/220346.220367)
-- [Downey, Sethi and Tarjan, common subexpressions, J. ACM 27(4) 1980](https://doi.org/10.1145/322217.322228)
+- Boulier, Lazard, Ollivier and Petitot, radicals of differential ideals, ISSAC 1995, doi:10.1145/220346.220367
+- Downey, Sethi and Tarjan, common subexpressions, J. ACM 27(4) 1980, doi:10.1145/322217.322228
 - [Seress, *Permutation Group Algorithms*, CUP 2003](https://doi.org/10.1017/CBO9780511546549)
 - [Portugal, tensor simplification, J. Phys. A 32(44) 1999](https://doi.org/10.1088/0305-4470/32/44/313)
 

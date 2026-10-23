@@ -35,11 +35,11 @@ The references the work starts from (bibliography first):
 - [von zur Gathen and Gerhard, *Modern Computer Algebra*, 3rd ed., CUP 2013](https://doi.org/10.1017/CBO9781139856065)
 - [Geddes, Czapor and Labahn, *Algorithms for Computer Algebra*, Kluwer 1992](https://doi.org/10.1007/b102438)
 - [Bronstein, *Symbolic Integration I: Transcendental Functions*, 2nd ed., Springer 2005](https://doi.org/10.1007/b138171)
-- [Cantor and Zassenhaus, Math. Comp. 36 (1981) 587-592](https://doi.org/10.1090/S0025-5718-1981-0606517-5)
+- Cantor and Zassenhaus, Math. Comp. 36 (1981) 587-592, doi:10.1090/S0025-5718-1981-0606517-5
 - [van Hoeij, J. Number Theory 95 (2002) 167-189](https://doi.org/10.1006/jnth.2001.2763)
 - [Buchberger, Aequationes Math. 4 (1970) 374-383](https://doi.org/10.1007/BF01844169)
-- [Faugère, F4, J. Pure Appl. Algebra 139 (1999) 61-88](https://doi.org/10.1016/S0022-4049(99)00005-5)
-- [Risch, Trans. AMS 139 (1969) 167-189](https://doi.org/10.1090/S0002-9947-1969-0237477-8)
+- Faugère, F4, J. Pure Appl. Algebra 139 (1999) 61-88, doi:10.1016/S0022-4049(99)00005-5
+- Risch, Trans. AMS 139 (1969) 167-189, doi:10.1090/S0002-9947-1969-0237477-8
 - [Rich, Scheibe and Abbasi, rule-based integration (Rubi), JOSS 3(32) 2018](https://doi.org/10.21105/joss.01073)
 - [Rubi rules and test suite](https://rulebasedintegration.org/)
 
