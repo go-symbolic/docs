@@ -1,7 +1,7 @@
 # docs
 
 [![docs](https://github.com/go-symbolic/docs/actions/workflows/docs.yml/badge.svg)](https://github.com/go-symbolic/docs/actions/workflows/docs.yml)
-[![License](https://img.shields.io/badge/license-BSD--3--Clause-0B6074?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-9810A4?style=flat-square)](LICENSE)
 
 **The go-symbolic documentation site**, published at
 <https://go-symbolic.github.io/docs/>.
